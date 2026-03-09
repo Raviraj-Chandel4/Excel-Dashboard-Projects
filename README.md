@@ -27,26 +27,27 @@ Some projects may be inspired by tutorials or guided examples.
 ---
 
 ### 🔹 Advanced (Independent Projects)
-This folder will contain **complex projects built independently by me** without any external help.
+This folder contains **advanced dashboards and projects built independently by me**.
 
-These projects will focus on:
+These projects focus on:
 - Solving real business problems  
 - Designing professional dashboards  
 - Performing deep analysis  
 - Generating meaningful business insights  
 
-⚠️ *Note: Advanced projects will be added soon as I continue learning and building.*
+📌 *More advanced projects will continue to be added as I build new dashboards and analyses.*
 
 ---
 
 ## 🛠 Skills Practiced
 - Microsoft Excel  
-- Pivot Tables & Charts  
+- Pivot Tables & Pivot Charts  
 - XLOOKUP / VLOOKUP  
 - IF, SUMIFS, COUNTIFS  
 - Data Cleaning  
 - Dashboard Design  
-- Business Analysis  
+- Data Visualization  
+- Business Insight Generation  
 
 ---
 
@@ -55,11 +56,4 @@ My goal is to become a **job-ready Data Analyst** by:
 - Continuously improving my skills  
 - Building projects of increasing complexity  
 - Documenting my learning journey on GitHub  
-
----
-
-## 🚀 Future Plan
-- Add Power BI / Tableau projects  
-- Integrate SQL-based analysis  
-- Create end-to-end business case studies  
-- Publish fully independent advanced dashboards  
+ 
