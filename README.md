@@ -12,7 +12,7 @@ The purpose of this repository is to:
 
 ## 📂 Folder Structure
 
-### 🔹 Basic (Learning Phase)
+### 🔹Practice Projects (Learning Phase)
 This folder contains projects created during my **learning phase**.
 
 These projects focus on:
@@ -26,7 +26,7 @@ Some projects may be inspired by tutorials or guided examples.
 
 ---
 
-### 🔹 Advanced (Independent Projects)
+### 🔹Independent Projects
 This folder contains **advanced dashboards and projects built independently by me**.
 
 These projects focus on:
@@ -34,8 +34,6 @@ These projects focus on:
 - Designing professional dashboards  
 - Performing deep analysis  
 - Generating meaningful business insights  
-
-📌 *More advanced projects will continue to be added as I build new dashboards and analyses.*
 
 ---
 
