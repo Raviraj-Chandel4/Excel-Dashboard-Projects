@@ -1,6 +1,6 @@
 # 📊 Retail Sales & Profit Analysis Dashboard
 
-An interactive **Excel dashboard** created to analyze retail sales, profit, customer segments, regions, products, and monthly sales trends.
+An **Excel dashboard** created to analyze retail sales, profit, customer segments, regions, products, and monthly sales trends.
 
 ## 📌 Project Overview
 
